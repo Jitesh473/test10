@@ -1,3 +1,7 @@
 firstS
+<<<<<<< HEAD
 second
 third
+=======
+second
+>>>>>>> afa592c (second)
